@@ -15,7 +15,7 @@
 
 ## Overview
 
-The source of Decision Toolkit (DSNTK) book.
+Decision Toolkit book.
 
 ## License
 
