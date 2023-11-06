@@ -1,0 +1,76 @@
+# Built-in functions
+
+- abs
+- after
+- all
+- any
+- append
+- before
+- ceiling
+- coincides
+- concatenate
+- contains
+- count
+- date
+- date and time
+- day of week
+- day of year
+- decimal
+- distinct values
+- duration
+- during
+- ends with
+- even
+- exp
+- finished by
+- finishes
+- flatten
+- floor
+- get entries
+- get value
+- includes
+- index of
+- insert before
+- is
+- list contains
+- log
+- lower case
+- matches
+- max
+- mean
+- meets
+- median
+- met by
+- min
+- mode
+- modulo
+- month of year
+- not
+- number
+- odd
+- overlaps
+- overlaps after
+- overlaps before
+- product
+- remove
+- replace
+- reverse
+- sort
+- split
+- sqrt
+- started by
+- starts
+- starts with
+- stddev
+- string
+- string length
+- sublist
+- substring
+- substring after
+- substring before
+- sum
+- time
+- union
+- upper case
+- week of year
+- years and months duration

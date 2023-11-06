@@ -1,0 +1,20 @@
+version: '3'
+
+silent: true
+
+tasks:
+
+  build:
+    desc: Builds the book
+    cmds:
+      - cmd: mdbook build
+
+  clean:
+    desc: Cleans the book
+    cmds:
+      - cmd: mdbook clean
+
+  serve:
+    desc: Serves the book
+    cmds:
+      - cmd: mdbook serve -p 4200

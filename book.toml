@@ -1,0 +1,14 @@
+[book]
+title = "DSNTK | Decision Toolkit"
+authors = ["Dariusz Depta"]
+description = "The source for DSNTK | Decision Toolkit book."
+language = "en"
+multilingual = false
+src = "src"
+
+[rust]
+edition = "2021"
+
+[output.html.fold]
+enable = true
+level = 0
