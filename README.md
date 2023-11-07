@@ -1,6 +1,6 @@
 **DSNTK** | Decision Toolkit
 
-## dsntk-book
+## Decision Toolkit Book
 
 [![MIT licensed][mit-badge]][mit-url]
 [![Apache 2.0 licensed][apache-badge]][apache-url]
@@ -15,7 +15,7 @@
 
 ## Overview
 
-Decision Toolkit book.
+Source code for Decision Toolkit Book.
 
 ## License
 
