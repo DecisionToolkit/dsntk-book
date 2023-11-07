@@ -1,5 +1,7 @@
 # Decision Toolkit
 
+![dsntk-logo](dsntk-logo.svg)
+
 # Overview
 
 **Decision Toolkit** (or shortly **DSNTK**) is a suite of tools designed to evaluate, build and test decision models.
