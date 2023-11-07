@@ -1,7 +1,7 @@
 [book]
-title = "DSNTK | Decision Toolkit"
-authors = ["Dariusz Depta"]
-description = "The source for DSNTK | Decision Toolkit book."
+title = "Decision Toolkit"
+authors = ["Dariusz Depta <dariusz.depta@dsntk.io>"]
+description = "The Decision Toolkit book."
 language = "en"
 multilingual = false
 src = "src"

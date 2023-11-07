@@ -1,10 +1,11 @@
-# DSNTK | Decision Toolkit
+# Decision Toolkit
 
 # Overview
 
-**Decision Toolkit** (referenced later as DSNTK) is a suite of tools designed to evaluate, build
-and test decision models. DSNTK is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
-specification, which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
+**Decision Toolkit** (referenced later in this document as DSNTK) is a suite of tools 
+designed to evaluate, build and test decision models.
+DSNTK is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/) specification,
+which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
 
 **DSNTK** aims to be performant, reliable, and fully compliant with the [DMN™](https://www.omg.org/spec/DMN) specification,
 ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),

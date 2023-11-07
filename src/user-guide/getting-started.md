@@ -12,7 +12,7 @@ $ dsntk exs examples
 
 ```shell
 $ cd ./examples/e1
-$ dmntk efe e1.ctx e1.feel
+$ dsntk efe e1.ctx e1.feel
 3
 ```
 
@@ -20,7 +20,7 @@ $ dmntk efe e1.ctx e1.feel
 
 ```shell
 $ cd ./examples/e2
-$ dmntk edm e2.ctx e2.dmn -i "Greeting Message"
+$ dsntk edm e2.ctx e2.dmn -i "Greeting Message"
 "Hello John Doe"
 ```
 
@@ -28,7 +28,7 @@ $ dmntk edm e2.ctx e2.dmn -i "Greeting Message"
 
 ```shell
 $ cd ./examples/e3
-$ dmntk edt e3.ctx e3.dtb
+$ dsntk edt e3.ctx e3.dtb
 0.15
 ```
 

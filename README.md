@@ -7,9 +7,9 @@
 [![Contributor Covenant][cc-badge]][cc-url]
 
 [mit-badge]: https://img.shields.io/badge/License-MIT-blue.svg
-[mit-url]: https://github.com/dmntk/dmntk.rs/blob/main/LICENSE-MIT
+[mit-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
 [apache-badge]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-[apache-url]: https://github.com/dmntk/dmntk.rs/blob/main/LICENSE-APACHE
+[apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
 [cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 [cc-url]: https://github.com/dsntk/dsntk-rs/blob/main/CODE_OF_CONDUCT.md
 

@@ -4,7 +4,7 @@
 
 Binary version of **DSNTK** may be obtained in the following ways:
 - downloaded directly from [GitHub releases](https://github.com/dsntk/dsntk-rs/releases), or
-- built and installed from source using [Cargo](https://crates.io/crates/dmntk).
+- built and installed from source using [Cargo](https://crates.io/crates/dsntk).
 
 ## Downloading DSNTK from released versions
 
