@@ -6,8 +6,6 @@
 [cc-url]: https://github.com/dsntk/dsntk-rs/blob/main/CODE_OF_CONDUCT.md
 
 Any contributions are greatly appreciated.
-If you would like to get involved, please don't hesitate to reach out to us.
-All contributions intentionally submitted for inclusion in the work by you,
-shall be dual licensed as above, without any additional terms or conditions.
-
-
+If you would like to get involved, please don't hesitate to reach out to us. 
+The source files from which the Decision Toolkit book is generated
+can be found on [GitHub](https://github.com/dsntk/dsntk-book).
