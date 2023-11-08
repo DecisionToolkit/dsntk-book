@@ -39,3 +39,4 @@
 
 - [License](license.md)
 - [Contributing](contributing.md)
+- [References](references.md)
