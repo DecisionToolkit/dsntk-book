@@ -8,6 +8,9 @@
 [apache-badge]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
 [apache-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-APACHE
 
-**DSNTK** is licensed under either of [MIT license](https://opensource.org/licenses/MIT) ([MIT][mit-url]),
-or [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([Apache 2.0][apache-url])
+^dsntk is licensed under either of
+
+- [MIT license](https://opensource.org/licenses/MIT) ([LICENSE-MIT][mit-url]) or
+- [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([LICENSE-APACHE][apache-url])
+ 
 at your option.

@@ -1,6 +1,6 @@
 # Saving examples
 
-DSNTK provides a set of examples ready to play with.
+^dsntk provides a set of examples ready to play with.
 
 To install examples in e.g. **examples** directory, enter:
 

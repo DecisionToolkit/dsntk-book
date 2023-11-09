@@ -1,0 +1,23 @@
+^dsntk-ver
+0.0.1
+
+^dsntk
+[**DSNTK**](https://github.com/dsntk)
+
+^dt
+[**Decision Toolkit**](https://github.com/dsntk)
+
+^dmn
+[DMN™](https://www.omg.org/spec/DMN)
+
+^rust
+[Rust](https://www.rust-lang.org/)
+
+^note
+**NOTE:**
+
+^hint
+**HINT:**
+
+^version
+0.0.4

@@ -30,7 +30,7 @@ $ dsntk --version
 
 ## srv
 
-Runs DSNTK as a service. To display all available options of the **srv** command, run:
+Runs ^dsntk as a service. To display all available options of the **srv** command, run:
 
 ```shell
 $ dsntk help srv

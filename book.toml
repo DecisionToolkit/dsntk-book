@@ -12,3 +12,5 @@ edition = "2021"
 [output.html.fold]
 enable = true
 level = 0
+
+[preprocessor.yapp]
