@@ -8,7 +8,7 @@
 [**Decision Toolkit**](https://github.com/dsntk)
 
 ^dmn
-[DMN™](https://www.omg.org/spec/DMN)
+[DMN](https://www.omg.org/spec/DMN)™
 
 ^rust
 [Rust](https://www.rust-lang.org/)
@@ -19,5 +19,5 @@
 ^hint
 **HINT:**
 
-^version
-0.0.4
+^book-ver
+0.0.5

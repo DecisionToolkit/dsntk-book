@@ -10,4 +10,4 @@
 
 ### The Decision Toolkit Book
 
-> This document's version is **^version**.
+> This document's version is **^book-ver**.
