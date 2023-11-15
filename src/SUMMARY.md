@@ -22,6 +22,7 @@
   - [Exporting FEEL expressions](user-guide/subcommands/command-xfe.md)
   - [Recognizing decision tables](user-guide/subcommands/command-rdt.md)
   - [Saving examples](user-guide/subcommands/command-exs.md)
+  - [Commands cheat sheet](user-guide/subcommands/command-cheat-sheet.md)
 
 # Reference Guide
 

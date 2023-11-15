@@ -2,13 +2,13 @@
 
 ^dsntk provides a set of examples ready to play with.
 
-To install examples in e.g. **examples** directory, enter:
+To install examples in **examples** directory, enter:
 
 ```shell
 $ dsntk exs examples
 ```
 
-The structure of example directories and files is shown below:
+The resulting structure of directories and files should be similar to the one shown below:
 
 ```shell
 $ tree .

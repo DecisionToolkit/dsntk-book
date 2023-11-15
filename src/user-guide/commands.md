@@ -30,150 +30,150 @@ $ dsntk --version
 
 ## srv
 
-Runs ^dsntk as a service. To display all available options of the **srv** command, run:
+Runs ^dsntk as a service. To display all available options of the **srv** command, enter:
 
 ```shell
 $ dsntk help srv
 ```
 
-For a more detailed description of **srv** command, please refer to [Serving DMN models](subcommands/command-srv.md).
+^subcommand-srv-ref
 
 ## edm
 
-Evaluates DMN model. To display all available options of the **edm** command, run:
+Evaluates DMN model. To display all available options of the **edm** command, enter:
 
 ```shell
 $ dsntk help edm
 ```
 
-For a more detailed description of **edm** command, please refer to [Evaluating DMN models](subcommands/command-edm.md).
+^subcommand-edm-ref
 
 ## edt
 
-Evaluates decision table. To display all available options of the **edt** command, run:
+Evaluates decision table. To display all available options of the **edt** command, enter:
 
 ```shell
 $ dsntk help edt
 ```
 
-For a more detailed description of **edt** command, please refer to [Evaluating decision tables](subcommands/command-edt.md).
+^subcommand-edt-ref
 
 ## efe
 
-Evaluates FEEL expression. To display all available options of the **efe** command, run:
+Evaluates FEEL expression. To display all available options of the **efe** command, enter:
 
 ```shell
 $ dsntk help efe
 ```
 
-For a more detailed description of **efe** command, please refer to [Evaluating FEEL expressions](subcommands/command-efe.md).
+^subcommand-efe-ref
 
 ## pdm
 
-Parses DMN model. To display all available options of the **pdm** command, run:
+Parses DMN model. To display all available options of the **pdm** command, enter:
 
 ```shell
 $ dsntk help pdm
 ```
 
-For a more detailed description of **pdm** command, please refer to [Parsing DMN models](subcommands/command-pdm.md).
+^subcommand-pdm-ref
 
 ## pdt
 
-Parses decision table. To display all available options of the **pdt** command, run:
+Parses decision table. To display all available options of the **pdt** command, enter:
 
 ```shell
 $ dsntk help pdt
 ```
 
-For a more detailed description of **pdt** command, please refer to [Parsing decision tables](subcommands/command-pdt.md).
+^subcommand-pdt-ref
 
 ## pfe
 
-Parses FEEL expression. To display all available options of the **pfe** command, run:
+Parses FEEL expression. To display all available options of the **pfe** command, enter:
 
 ```shell
 $ dsntk help pfe
 ```
 
-For a more detailed description of **pfe** command, please refer to [Parsing FEEL expressions](subcommands/command-pfe.md).
+^subcommand-pfe-ref
 
 ## tdm
 
-Tests DMN model. To display all available options of the **tdm** command, run:
+Tests DMN model. To display all available options of the **tdm** command, enter:
 
 ```shell
 $ dsntk help tdm
 ```
 
-For a more detailed description of **tdm** command, please refer to [Testing DMN models](subcommands/command-tdm.md).
+^subcommand-tdm-ref
 
 ## tdt
 
-Tests decision table. To display all available options of the **tdt** command, run:
+Tests decision table. To display all available options of the **tdt** command, enter:
 
 ```shell
 $ dsntk help tdt
 ```
 
-For a more detailed description of **tdt** command, please refer to [Testing decision tables](subcommands/command-tdt.md).
+^subcommand-tdt-ref
 
 ## tfe
 
-Tests FEEL expression. To display all available options of the **fte** command, run:
+Tests FEEL expression. To display all available options of the **fte** command, enter:
 
 ```shell
 $ dsntk help tfe
 ```
 
-For a more detailed description of **tfe** command, please refer to [Testing FEEL expressions](subcommands/command-tfe.md).
+^subcommand-tfe-ref
 
 ## xdm
 
-Exports DMN model. To display all available options of the **xdm** command, run:
+Exports DMN model. To display all available options of the **xdm** command, enter:
 
 ```shell
 $ dsntk help xdm
 ```
 
-For a more detailed description of **xdm** command, please refer to [Exporting DMN models](subcommands/command-xdm.md).
+^subcommand-xdm-ref
 
 ## xdt
 
-Exports decision table. To display all available options of the **xdt** command, run:
+Exports decision table. To display all available options of the **xdt** command, enter:
 
 ```shell
 $ dsntk help xdt
 ```
 
-For a more detailed description of **xdt** command, please refer to [Exporting decision tables](subcommands/command-xdt.md).
+^subcommand-xdt-ref
 
 ## xfe
 
-Exports FEEL expression. To display all available options of the **xfe** command, run:
+Exports FEEL expression. To display all available options of the **xfe** command, enter:
 
 ```shell
 $ dsntk help xfe
 ```
 
-For a more detailed description of **xfe** command, please refer to [Exporting FEEL expressions](subcommands/command-xfe.md).
+^subcommand-xfe-ref
 
 ## rdt
 
-Recognizes decision table. To display all available options of the **rdt** command, run:
+Recognizes decision table. To display all available options of the **rdt** command, enter:
 
 ```shell
 $ dsntk help rdt
 ```
 
-For a more detailed description of **rdt** command, please refer to [Recognizing decision tables](subcommands/command-rdt.md).
+^subcommand-rdt-ref
 
 ## exs
 
-Saves the examples. To display all available options of the **exs** command, run:
+Saves the examples. To display all available options of the **exs** command, enter:
 
 ```shell
 $ dsntk help exs
 ```
 
-For a more detailed description of **exs** command, please refer to [Saving examples](subcommands/command-exs.md).
+^subcommand-exs-ref
