@@ -7,6 +7,9 @@ dsntk
 ^dsntk
 [**DSNTK**](https://github.com/dsntk)
 
+^dt-normal
+[Decision Toolkit](https://github.com/dsntk)
+
 ^dt
 [**Decision Toolkit**](https://github.com/dsntk)
 
@@ -26,7 +29,7 @@ dsntk
 💡 _HINT:_
 
 ^book-ver
-0.0.7
+0.0.8
 
 ^subcommand-srv-ref
 For a more detailed description of **srv** command, please refer to [Serving DMN models](subcommands/command-srv.md).
@@ -74,4 +77,4 @@ For a more detailed description of **rdt** command, please refer to [Recognizing
 For a more detailed description of **exs** command, please refer to [Saving examples](subcommands/command-exs.md).
 
 ^tbd
-🚧 _documentation is on the way_ 🚧
+<span style="font-size:2em">🚧</span><span style="font-size:1.6em"> work in progress </span><span style="font-size:2em">🚧</span>
