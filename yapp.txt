@@ -72,3 +72,6 @@ For a more detailed description of **rdt** command, please refer to [Recognizing
 
 ^subcommand-exs-ref
 For a more detailed description of **exs** command, please refer to [Saving examples](subcommands/command-exs.md).
+
+^tbd
+🚧 _documentation is on the way_ 🚧
