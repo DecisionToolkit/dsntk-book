@@ -4,4 +4,4 @@
 
 > This document covers version **^dmn-ver** (or later) of ^dmn specification.
 
-> This document version is **0.0.9**.
+> This document version is **0.0.10**.

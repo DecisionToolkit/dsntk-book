@@ -40,6 +40,6 @@ to ensure high performance, reliability and portability.
 
 ## Project status
 
-^dsntk is **production ready**, but there are still some features that may be subject to change or refinement,
+^dsntk is _**production ready**_, but there are still some features that may be subject to change or refinement,
 based on testing and user feedback. We welcome users to try ^dsntk out and provide feedback or suggestions
 to improve its usability or performance.

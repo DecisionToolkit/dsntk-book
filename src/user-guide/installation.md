@@ -13,9 +13,9 @@ Binary version of ^dsntk may be obtained in the following ways:
 - Download the binary of your choice, according to the operating system you need.
 
 > ^hint  Names of released binary files contain version number and operating system name
-> like **^dsntk-small-^dsntk-ver-linux-musl-x86_64**. To proceed with the examples presented
+> like **^dsntk-small-^dsntk-ver-linux-x86_64**. To proceed with the examples presented
 > in this book, just rename the downloaded binary to:
-> - **dsntk** for Linux and macOS
+> - **dsntk** for Linux and macOS,
 > - **dsntk.exe** for Windows.
 
 ## Installing ^dsntk using Cargo
