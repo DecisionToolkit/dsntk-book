@@ -2,7 +2,7 @@
 dsntk
 
 ^dsntk-ver
-0.0.3
+0.0.4
 
 ^dsntk
 [**DSNTK**](https://github.com/dsntk)

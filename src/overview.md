@@ -1,6 +1,6 @@
 # Decision Toolkit
 
-![dsntk-logo](dsntk-logo.svg)
+![dsntk-logo](dsntk-logo.png)
 
 # Overview
 
