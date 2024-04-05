@@ -1,12 +1,12 @@
 # Installation
 
-^dsntk ships as a single executable without any additional dependencies.
+^dt ships as a single executable without any additional dependencies.
 
-Binary version of ^dsntk may be obtained in the following ways:
+Binary version of ^dt may be obtained in the following ways:
 - downloaded directly from [GitHub releases](https://github.com/dsntk/dsntk-rs/releases), or
 - built and installed from source using [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html).
 
-## Downloading ^dsntk from released versions
+## Downloading ^dt from released versions
 
 - Head to [GitHub releases](https://github.com/dsntk/dsntk-rs/releases).
 - Expand the **Assets** section in selected release version.
@@ -18,7 +18,7 @@ Binary version of ^dsntk may be obtained in the following ways:
 > - **dsntk** for Linux and macOS,
 > - **dsntk.exe** for Windows.
 
-## Installing ^dsntk using Cargo
+## Installing ^dt using Cargo
 
 Install [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) and run:
 

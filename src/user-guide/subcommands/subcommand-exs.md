@@ -1,6 +1,6 @@
 # Saving examples
 
-^dsntk provides a set of examples ready to play with.
+^dt provides a set of examples ready to play with.
 
 To install examples in **examples** directory, enter:
 

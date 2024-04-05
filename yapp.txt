@@ -11,7 +11,7 @@ dsntk
 [Decision Toolkit](https://github.com/dsntk)
 
 ^dt
-[**Decision Toolkit**](https://github.com/dsntk)
+[**Decision&nbsp;Toolkit**](https://github.com/dsntk)
 
 ^dmn-ver
 1.4

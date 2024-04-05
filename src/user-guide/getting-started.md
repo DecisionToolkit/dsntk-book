@@ -1,6 +1,6 @@
 # Getting started
 
-^dsntk provides a set of examples ready to play with.
+^dt provides a set of examples ready to play with.
 
 To install examples in **examples** directory, enter:
 
@@ -46,7 +46,7 @@ $ dsntk edt e3.ctx e3.dtb
 
 ^subcommand-edt-ref
 
-## Run ^dsntk as a service
+## Run ^dt as a service
 
 ```shell
 $ cd ./examples/e2
