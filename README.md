@@ -18,7 +18,7 @@
 
 ## Overview
 
-Source code for Decision Toolkit Book.
+Source code for ÐecisionToolkit book.
 
 ## License
 
